@@ -1,1 +1,3 @@
-// Code your solutions in this file
+for (let countDown = 0; countDown < 10; i--) {
+    console.log(countDown);
+  }
